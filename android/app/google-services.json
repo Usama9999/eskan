@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373791744999",
+    "project_id": "eskan-37b9b",
+    "storage_bucket": "eskan-37b9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373791744999:android:f2f6f157cc3adc86e09342",
+        "android_client_info": {
+          "package_name": "com.example.eskan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373791744999-aud50c563o964llmi6v1vqmho2auslch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCre2_UgpUIBQpkG4aNAtTRRYET-NhzBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373791744999-aud50c563o964llmi6v1vqmho2auslch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
